@@ -14,4 +14,4 @@ Philosophy:
 
 > Continuous improvement > hype.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojit-karar&show_icons=true&theme=github_dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manojit-karar&theme=tokyonight)
