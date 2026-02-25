@@ -1,16 +1,15 @@
-## Hi there 👋
+# Manojit Karar  
+### | Cloud & DevOps Engineer
 
-<!--
-**manojit-karar/manojit-karar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Core Interests:
+- Cloud Architecture (AWS)
+- Infrastructure & Identity Management
+- Automation & Workflow Optimization
+- Secure Multi-Account Environments
 
-Here are some ideas to get you started:
+Philosophy:
+- If it’s manual, automate it.
+- If it’s slow, optimize it.
+- If it’s unclear, document it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Continuous improvement > hype.
